@@ -1,0 +1,869 @@
+{
+  "data": {
+    "album_list": [
+      {
+        "album_item_id": 1, 
+        "data": {
+          "checksum": "9efc7aeaf7b2f2ad9f6db41af232199e", 
+          "size": 4475031, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/en_song01.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 2, 
+        "data": {
+          "checksum": "f8259de2b3b462e292fc3ccbde5dd337", 
+          "size": 3661975, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/en_song02.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 3, 
+        "data": {
+          "checksum": "1cdde1f6f2ab5576c1a5b01e6dcbc846", 
+          "size": 6910934, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/en_song03.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 4, 
+        "data": {
+          "checksum": "375908ed9ca5b847cb7ea3545aa8dcc8", 
+          "size": 8286787, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/en_song04.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 5, 
+        "data": {
+          "checksum": "c991991ed10a55579f1757c3dae424ea", 
+          "size": 5463188, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/en_song05.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 6, 
+        "data": {
+          "checksum": "8b337bb8e3be74b004c2fa0f73f6f2f4", 
+          "size": 7985001, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/en_song06.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 7, 
+        "data": {
+          "checksum": "64855d0fa381f830b4475b8cc101db03", 
+          "size": 7366863, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/en_song07.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 8, 
+        "data": {
+          "checksum": "733aa81c0fd40c4420c6e697791667b7", 
+          "size": 7000496, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/en_song08.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 9, 
+        "data": {
+          "checksum": "aee9b254c21bc5af06c1a38095a9a9fd", 
+          "size": 4184514, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/en_song09.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 10, 
+        "data": {
+          "checksum": "c830920f6ce28bb6ca397cd9d72e1043", 
+          "size": 9110496, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/en_song10.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 11, 
+        "data": {
+          "checksum": "d09da98d15400cc43f655787f7e2f347", 
+          "size": 6790970, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/en_song11.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 12, 
+        "data": {
+          "checksum": "7c9542f8aab90c7054f0df65577622fb", 
+          "size": 9231040, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/en_song12.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 1, 
+        "data": {
+          "checksum": "05100aaec4a5938ad57416670a511dbd", 
+          "size": 4446154, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ko_song01.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 2, 
+        "data": {
+          "checksum": "92c66772b74aacadd25e109878b83d47", 
+          "size": 3520112, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ko_song02.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 3, 
+        "data": {
+          "checksum": "de9466c13d8288d84ee58141c70ccf7f", 
+          "size": 6729147, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ko_song03.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 4, 
+        "data": {
+          "checksum": "433b8917118a9b458e4aec3896324405", 
+          "size": 8065575, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ko_song04.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 5, 
+        "data": {
+          "checksum": "46a9c03cd1721eedf12309d04ce85678", 
+          "size": 5382541, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ko_song05.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 6, 
+        "data": {
+          "checksum": "f8017a477b661d362c1b9c4c76d023b9", 
+          "size": 7941584, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ko_song06.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 7, 
+        "data": {
+          "checksum": "b95b8cbdcc4ac2f4b5905e4f9b3344ce", 
+          "size": 7253773, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ko_song07.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 8, 
+        "data": {
+          "checksum": "c607ccf891efb437289b26cd31d695d7", 
+          "size": 6943453, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ko_song08.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 9, 
+        "data": {
+          "checksum": "e61e4f922ce9bfce73cdaf1d6771ad52", 
+          "size": 4018663, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ko_song09.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 10, 
+        "data": {
+          "checksum": "6cb432e0e7cf17c8969bb09a3defaf9e", 
+          "size": 8886532, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ko_song10.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 11, 
+        "data": {
+          "checksum": "fcd3b2a8e934430bad696a4c1ae73b94", 
+          "size": 6728504, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ko_song11.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 12, 
+        "data": {
+          "checksum": "8705f6b6669cfd6accf4aeaa0fc4bc62", 
+          "size": 9237088, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ko_song12.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 1, 
+        "data": {
+          "checksum": "728aafa6e2387cbe29b05d39376da69e", 
+          "size": 4392413, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/zh_song01.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 2, 
+        "data": {
+          "checksum": "ad5b3ca1d5feacd66b862cdc14544338", 
+          "size": 3367409, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/zh_song02.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 3, 
+        "data": {
+          "checksum": "a015dd0de111b02b4b419431593f243a", 
+          "size": 6647982, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/zh_song03.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 4, 
+        "data": {
+          "checksum": "47c48cd3712417a67ca091cb10bcb5e3", 
+          "size": 8176904, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/zh_song04.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 5, 
+        "data": {
+          "checksum": "09f12160d4220716990e3b0eda1b9c08", 
+          "size": 5306704, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/zh_song05.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 6, 
+        "data": {
+          "checksum": "08293b5cc378e9dcd3226d5902052b2b", 
+          "size": 7850156, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/zh_song06.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 7, 
+        "data": {
+          "checksum": "6cf3655048c4a6f16ba18f763883f936", 
+          "size": 7180635, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/zh_song07.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 8, 
+        "data": {
+          "checksum": "21d7005ad08298acf1411d850b5895a2", 
+          "size": 6826593, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/zh_song08.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 9, 
+        "data": {
+          "checksum": "4031884c6a91563ceaa5015f3f41f6f6", 
+          "size": 3789013, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/zh_song09.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 10, 
+        "data": {
+          "checksum": "983047fab0b2ac9a56abfa130b10be2e", 
+          "size": 8919332, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/zh_song10.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 11, 
+        "data": {
+          "checksum": "0a89b1e9fabf63ca9777996704053642", 
+          "size": 6726253, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/zh_song11.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 12, 
+        "data": {
+          "checksum": "87dbcad13e4f67750ebe5bcb6a3110dc", 
+          "size": 9089183, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/zh_song12.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 1, 
+        "data": {
+          "checksum": "2d0ddaad01769ba29b348ab5200af70d", 
+          "size": 4453330, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ja_song01.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 2, 
+        "data": {
+          "checksum": "73c65f5cf37ab3b5c85d13833182cbe4", 
+          "size": 3550905, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ja_song02.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 3, 
+        "data": {
+          "checksum": "abb7e1c27e67fb06bfc00f26ab1a5730", 
+          "size": 6811541, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ja_song03.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 4, 
+        "data": {
+          "checksum": "a0bcafbd45c490f359c57aa5e5469b70", 
+          "size": 8099124, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ja_song04.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 5, 
+        "data": {
+          "checksum": "27e2a24b215046c2d1b16d0386d7fdd1", 
+          "size": 5368727, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ja_song05.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 6, 
+        "data": {
+          "checksum": "dc5f32d4673d309447a10bba980835c6", 
+          "size": 7919158, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ja_song06.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 7, 
+        "data": {
+          "checksum": "898ddd1d0fba9db4ffed5536b7be182a", 
+          "size": 7308283, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ja_song07.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 8, 
+        "data": {
+          "checksum": "10d1ed0c5a8122dd50e358b0b0a22f95", 
+          "size": 6997293, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ja_song08.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 9, 
+        "data": {
+          "checksum": "83e7ad94e8a0ba5aaca9d165c3ccd880", 
+          "size": 4058277, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ja_song09.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 10, 
+        "data": {
+          "checksum": "e7bef9bea239dd32748c6ec7aa5548d0", 
+          "size": 8864369, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ja_song10.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 11, 
+        "data": {
+          "checksum": "4a54cb788c96f49d51f33562fa558b72", 
+          "size": 6778200, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ja_song11.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 12, 
+        "data": {
+          "checksum": "e101a234a12ec2827d41afa4248490b8", 
+          "size": 9288812, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/ja_song12.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 1, 
+        "data": {
+          "checksum": "1b2d6c17728b05c82d88a3fddc8e9641", 
+          "size": 4475423, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/es_song01.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 2, 
+        "data": {
+          "checksum": "ed8e20cf9d32a3b12248f40539e4a39e", 
+          "size": 3679696, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/es_song02.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 3, 
+        "data": {
+          "checksum": "b4ac748ff1868c5bccd5903cdfa76e7a", 
+          "size": 6857598, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/es_song03.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 4, 
+        "data": {
+          "checksum": "ddd2783c1073f627ab34ee0c856a6085", 
+          "size": 8315669, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/es_song04.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 5, 
+        "data": {
+          "checksum": "b8c280ebf8cb6712b3a5ef95719fd444", 
+          "size": 5489400, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/es_song05.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 6, 
+        "data": {
+          "checksum": "65d55b5789b729dca454fbe14c235adc", 
+          "size": 7980373, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/es_song06.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 7, 
+        "data": {
+          "checksum": "e843cd2691070cc86bb2c4c31a11c543", 
+          "size": 7422218, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/es_song07.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 8, 
+        "data": {
+          "checksum": "e47bd8d6265e7a84a7e7d8d987c26a34", 
+          "size": 6969327, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/es_song08.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 9, 
+        "data": {
+          "checksum": "834eb69291b7d3906a7b85124037e510", 
+          "size": 4210218, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/es_song09.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 10, 
+        "data": {
+          "checksum": "943bbaf4cd2a87d0fe93a80616e55186", 
+          "size": 9099222, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/es_song10.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 11, 
+        "data": {
+          "checksum": "7e8acf1d7e8d46f28f8811e2f697fa3c", 
+          "size": 6794460, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/es_song11.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 12, 
+        "data": {
+          "checksum": "147ae9ed0d6d735d3de249fbbe216191", 
+          "size": 9510754, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/gals/es_song12.npk"
+        }, 
+        "lang": "ES"
+      }
+    ], 
+    "config": [
+      {
+        "k": "allitem_store_item_id_original", 
+        "v": "9999"
+      }, 
+      {
+        "k": "allitem_store_item_id", 
+        "v": "9001"
+      }, 
+      {
+        "k": "facebook_link_url_1", 
+        "v": "fb://page/1465433343677567"
+      }, 
+      {
+        "k": "facebook_link_url_2", 
+        "v": "http://www.facebook.com/pinkfong.smartstudy"
+      }, 
+      {
+        "k": "facebook_link_url_1-KO", 
+        "v": "dummy-dummy://api"
+      }, 
+      {
+        "k": "facebook_link_url_2-KO", 
+        "v": "https://story.kakao.com/ch/pinkfong/app"
+      }, 
+      {
+        "k": "bodlebook_urlscheme", 
+        "v": "ssbooks-bodlebookiapsong.us://api"
+      }, 
+      {
+        "k": "bodlebook_appid", 
+        "v": "kr.co.smartstudy.bodlebookiapfree_us_android_googlemarket"
+      }, 
+      {
+        "k": "bodlebook_market", 
+        "v": "googlemarket"
+      }, 
+      {
+        "k": "bodlebook_urlscheme-KO", 
+        "v": "ssbooks-bodlebookiapsong.kr://api"
+      }, 
+      {
+        "k": "bodlebook_appid-KO", 
+        "v": "kr.co.smartstudy.bodlebookiapfree_android_googlemarket"
+      }, 
+      {
+        "k": "bodlebook_market-KO", 
+        "v": "googlemarket"
+      }, 
+      {
+        "k": "bodlebook_urlscheme-JA", 
+        "v": "ssbooks-bodlebookiapsong2.jp://api"
+      }, 
+      {
+        "k": "bodlebook_appid-JA", 
+        "v": "kr.co.smartstudy.bodlebookiapsong2_jp_android_googlemarket"
+      }, 
+      {
+        "k": "bodlebook_market-JA", 
+        "v": "googlemarket"
+      }, 
+      {
+        "k": "bodlebook_urlscheme-ZH", 
+        "v": "ssbooks-bodlebookiapsong.cn://api"
+      }, 
+      {
+        "k": "bodlebook_appid-ZH", 
+        "v": "kr.co.smartstudy.bodlebookiapsong_cn_android_googlemarket"
+      }, 
+      {
+        "k": "bodlebook_market-ZH", 
+        "v": "googlemarket"
+      }, 
+      {
+        "k": "bodlebook_popup_img", 
+        "v": "{\"url\": \"http://cdn.smartstudy.co.kr/appdata/123numbers/common/main_jump_popup_song2_bg_en.png\", \"checksum\": \"00c17748cd0e5102b85cb47735b004e3\", \"size\": 239789}", 
+        "vt": "file"
+      }, 
+      {
+        "k": "bodlebook_popup_img-KO", 
+        "v": "{\"url\": \"http://cdn.smartstudy.co.kr/appdata/123numbers/common/main_jump_popup_song2_bg_ko.png\", \"checksum\": \"11f99db45d63a05314fb954096ebc148\", \"size\": 245250}", 
+        "vt": "file"
+      }, 
+      {
+        "k": "bodlebook_popup_img-ZH", 
+        "v": "{\"url\": \"http://cdn.smartstudy.co.kr/appdata/123numbers/common/main_jump_popup_song2_bg_zh.png\", \"checksum\": \"1d404938710be998eb840984855f82cd\", \"size\": 247991}", 
+        "vt": "file"
+      }, 
+      {
+        "k": "bodlebook_popup_img-JA", 
+        "v": "{\"url\": \"http://cdn.smartstudy.co.kr/appdata/123numbers/common/main_jump_popup_song2_bg_ja.png\", \"checksum\": \"de5b1004bf45c3cf5021676ad6bb39d9\", \"size\": 250592}", 
+        "vt": "file"
+      }, 
+      {
+        "k": "fongjumpbtn_prefix", 
+        "v": "bodlebook"
+      }, 
+      {
+        "k": "fongjumpbtn_type", 
+        "v": "image"
+      }, 
+      {
+        "k": "lock_fongjump_run", 
+        "v": "FALSE"
+      }, 
+      {
+        "k": "lock_fongjump_install", 
+        "v": "FALSE"
+      }, 
+      {
+        "k": "lock_review", 
+        "v": "FALSE"
+      }, 
+      {
+        "k": "lock_facebook", 
+        "v": "FALSE"
+      }, 
+      {
+        "k": "lock_banner_run", 
+        "v": "FALSE"
+      }, 
+      {
+        "k": "lock_banner_install", 
+        "v": "TRUE"
+      }, 
+      {
+        "k": "lock_purchase", 
+        "v": "FALSE"
+      }, 
+      {
+        "k": "show_banner", 
+        "v": "FALSE"
+      }, 
+      {
+        "k": "banner_app_prefixs", 
+        "v": "coloring,cartown,phonics,timestables,bodlebook,dinoworld,tracingworld,hanguliyaho,bedtime,mothergoose"
+      }, 
+      {
+        "k": "coloring_urlscheme", 
+        "v": "smartstudy-kidscoloringfun://api"
+      }, 
+      {
+        "k": "coloring_appid", 
+        "v": "kr.co.smartstudy.kidscoloringfun_android_googlemarket"
+      }, 
+      {
+        "k": "coloring_market", 
+        "v": "googlemarket"
+      }, 
+      {
+        "k": "cartown_urlscheme", 
+        "v": "smartstudy-cartown://api"
+      }, 
+      {
+        "k": "cartown_appid", 
+        "v": "kr.co.smartstudy.cartown_android_googlemarket"
+      }, 
+      {
+        "k": "cartown_market", 
+        "v": "googlemarket"
+      }, 
+      {
+        "k": "phonics_urlscheme", 
+        "v": "ssbooks-phonicsiap://api"
+      }, 
+      {
+        "k": "phonics_appid", 
+        "v": "kr.co.smartstudy.phonicsiap_android_googlemarket"
+      }, 
+      {
+        "k": "phonics_market", 
+        "v": "googlemarket"
+      }, 
+      {
+        "k": "timestables_urlscheme", 
+        "v": "smartstudy-timestables://api"
+      }, 
+      {
+        "k": "timestables_appid", 
+        "v": "kr.co.smartstudy.timestablesiap_android_googlemarket"
+      }, 
+      {
+        "k": "timestables_market", 
+        "v": "googlemarket"
+      }, 
+      {
+        "k": "dinoworld_urlscheme", 
+        "v": "smartstudy-dinoworld://api"
+      }, 
+      {
+        "k": "dinoworld_appid", 
+        "v": "kr.co.smartstudy.dinoworld_android_googlemarket"
+      }, 
+      {
+        "k": "dinoworld_market", 
+        "v": "googlemarket"
+      }, 
+      {
+        "k": "tracingworld_urlscheme", 
+        "v": "smartstudy-tracingworld://api"
+      }, 
+      {
+        "k": "tracingworld_appid", 
+        "v": "kr.co.smartstudy.tracingworld_android_googlemarket"
+      }, 
+      {
+        "k": "tracingworld_market", 
+        "v": "googlemarket"
+      }, 
+      {
+        "k": "hanguliyaho_urlscheme", 
+        "v": "smartstudy-hanguliyaho://api"
+      }, 
+      {
+        "k": "hanguliyaho_appid", 
+        "v": "kr.co.smartstudy.hanguliyaho_android_googlemarket"
+      }, 
+      {
+        "k": "hanguliyaho_market", 
+        "v": "googlemarket"
+      }, 
+      {
+        "k": "bedtime_urlscheme", 
+        "v": "smartstudy-bedtime://api"
+      }, 
+      {
+        "k": "bedtime_appid", 
+        "v": "kr.co.smartstudy.bedtime_android_googlemarket"
+      }, 
+      {
+        "k": "bedtime_market", 
+        "v": "googlemarket"
+      }, 
+      {
+        "k": "_survey.after.buy-KO", 
+        "v": "http://i.sstudy.kr/L/785/"
+      }, 
+      {
+        "k": "mothergoose_urlscheme", 
+        "v": "smartstudy-4://api"
+      }, 
+      {
+        "k": "mothergoose_appid", 
+        "v": "kr.co.smartstudy.mothergoose_android_googlemarket"
+      }, 
+      {
+        "k": "mothergoose_market", 
+        "v": "googlemarket"
+      }
+    ], 
+    "store_list": [
+      {
+        "charge_type": "charge", 
+        "inapp_id": "kr.co.smartstudy.123numbers.originalpack", 
+        "include_album_item_ids": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12
+        ], 
+        "name": "Original Package ", 
+        "price": "26.99", 
+        "price_desc": "$26.99", 
+        "price_state": 1, 
+        "store_item_id": 9999
+      }, 
+      {
+        "charge_type": "charge", 
+        "inapp_id": "kr.co.smartstudy.123numbers.fullpack", 
+        "include_album_item_ids": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12
+        ], 
+        "name": "123Numbers Full Pack", 
+        "price": "12.99", 
+        "price_desc": "$12.99", 
+        "price_state": 1, 
+        "store_item_id": 9001
+      }, 
+      {
+        "charge_type": "free", 
+        "inapp_id": "", 
+        "include_album_item_ids": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12
+        ], 
+        "name": "1", 
+        "price": "0", 
+        "price_desc": "$0.00", 
+        "price_state": 4, 
+        "store_item_id": 1001
+      }
+    ]
+  }, 
+  "version": 1
+}
+
