@@ -1,0 +1,860 @@
+{
+  "data": {
+    "album_list": [
+      {
+        "album_item_id": 1, 
+        "data": {
+          "checksum": "bad8bd3809392e2347eea3b811017604", 
+          "size": 5240399, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/en_song01.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 2, 
+        "data": {
+          "checksum": "d93c3b03442343c70a42ef52af921cfb", 
+          "size": 4310095, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/en_song02.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 3, 
+        "data": {
+          "checksum": "c6eee4359f1a48501957fc2ef19fef1e", 
+          "size": 7937360, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/en_song03.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 4, 
+        "data": {
+          "checksum": "689d65126923725e31464235e546491d", 
+          "size": 9060344, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/en_song04.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 5, 
+        "data": {
+          "checksum": "d5ef088904f8bc2f13b1f36e97503e85", 
+          "size": 6355437, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/en_song05.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 6, 
+        "data": {
+          "checksum": "2b75940500d0e231628f86f514d76797", 
+          "size": 9092289, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/en_song06.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 7, 
+        "data": {
+          "checksum": "617ba7ed2586d0e13ee43014d74ccec1", 
+          "size": 8024890, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/en_song07.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 8, 
+        "data": {
+          "checksum": "4c3b7a1c3564a4ee3291728ed68e6a20", 
+          "size": 8582624, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/en_song08.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 9, 
+        "data": {
+          "checksum": "7316a52f64255c5097907aff676623db", 
+          "size": 4959908, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/en_song09.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 10, 
+        "data": {
+          "checksum": "dd10e673c13ffd91a7c26977f4ae802b", 
+          "size": 9782253, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/en_song10.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 11, 
+        "data": {
+          "checksum": "f93049f18c4d85177f9da5a321f7de85", 
+          "size": 8050934, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/en_song11.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 12, 
+        "data": {
+          "checksum": "ce4502adabd7171caa210fe30c11bd3d", 
+          "size": 10697823, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/en_song12.npk"
+        }, 
+        "lang": "EN"
+      }, 
+      {
+        "album_item_id": 1, 
+        "data": {
+          "checksum": "f693d40ba0a3a700c36512ffc3855e26", 
+          "size": 5188930, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ko_song01.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 2, 
+        "data": {
+          "checksum": "85dac87f58c8136e91b61151c16cc73f", 
+          "size": 4144267, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ko_song02.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 3, 
+        "data": {
+          "checksum": "62fc24c907c4a6746ceb315ac57c61a9", 
+          "size": 7782538, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ko_song03.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 4, 
+        "data": {
+          "checksum": "1f921ab604cbeea8fd07d8ae9cfc8370", 
+          "size": 8783300, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ko_song04.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 5, 
+        "data": {
+          "checksum": "861a0cb277fc253baa2e0ac6788eb6e5", 
+          "size": 6254832, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ko_song05.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 6, 
+        "data": {
+          "checksum": "20f71cefb179246efa54ba3f96d01f17", 
+          "size": 9068013, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ko_song06.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 7, 
+        "data": {
+          "checksum": "aa1f966205144ad802367f8e5e41c811", 
+          "size": 7881983, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ko_song07.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 8, 
+        "data": {
+          "checksum": "30efef6aa6b7ca38219e58d55ea740db", 
+          "size": 8459158, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ko_song08.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 9, 
+        "data": {
+          "checksum": "c007c790230c5b05c8149ad02be2558b", 
+          "size": 4776615, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ko_song09.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 10, 
+        "data": {
+          "checksum": "b8eecc6c3f2a7a9abbef7274ab31b137", 
+          "size": 9501958, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ko_song10.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 11, 
+        "data": {
+          "checksum": "3175346a1d0b30da7e367ee346cf2630", 
+          "size": 7955603, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ko_song11.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 12, 
+        "data": {
+          "checksum": "bf966ae808cb61091a94676562006b47", 
+          "size": 10546249, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ko_song12.npk"
+        }, 
+        "lang": "KO"
+      }, 
+      {
+        "album_item_id": 1, 
+        "data": {
+          "checksum": "ddbd7d7d6ed7d7adab03a86052936af8", 
+          "size": 5108888, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/zh_song01.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 2, 
+        "data": {
+          "checksum": "45aa64a4aa9f162687fd3b15264c00ee", 
+          "size": 3917894, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/zh_song02.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 3, 
+        "data": {
+          "checksum": "e5aa81e2d332cae54b84d678cce7c1aa", 
+          "size": 7659332, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/zh_song03.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 4, 
+        "data": {
+          "checksum": "ed181b213ca4314f5419814d35c03b76", 
+          "size": 8907809, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/zh_song04.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 5, 
+        "data": {
+          "checksum": "fa8d806d04b3b7cd0d36f652cce472ac", 
+          "size": 6168545, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/zh_song05.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 6, 
+        "data": {
+          "checksum": "4edbd729d8c5aae5d04f78ecf5952f22", 
+          "size": 8916489, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/zh_song06.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 7, 
+        "data": {
+          "checksum": "27b7a5c9f9130e211f1583f416d5007a", 
+          "size": 7811402, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/zh_song07.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 8, 
+        "data": {
+          "checksum": "e26bf07c565f6bc16cd36c234bfc6597", 
+          "size": 8315922, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/zh_song08.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 9, 
+        "data": {
+          "checksum": "f6319398e1e0acd1d5e6f5e0ea334a6d", 
+          "size": 4477044, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/zh_song09.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 10, 
+        "data": {
+          "checksum": "c4844a429196cb57eec7c9d8032adc6d", 
+          "size": 9563223, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/zh_song10.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 11, 
+        "data": {
+          "checksum": "5a341949ec163dbb37f0a5df73c5b8f8", 
+          "size": 7948121, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/zh_song11.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 12, 
+        "data": {
+          "checksum": "45cc7e1073c9c2b9b3d39975d749b06b", 
+          "size": 10479042, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/zh_song12.npk"
+        }, 
+        "lang": "ZH"
+      }, 
+      {
+        "album_item_id": 1, 
+        "data": {
+          "checksum": "cbf2c634c975b24155dcc0beaf661731", 
+          "size": 5182897, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ja_song01.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 2, 
+        "data": {
+          "checksum": "396c98ced82bfdc84874386c67cdb9b3", 
+          "size": 4180225, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ja_song02.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 3, 
+        "data": {
+          "checksum": "0e9d5134319f7336220ed1b261e25a3b", 
+          "size": 7869367, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ja_song03.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 4, 
+        "data": {
+          "checksum": "360d36c85eced89052fcdefab1c54382", 
+          "size": 8812077, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ja_song04.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 5, 
+        "data": {
+          "checksum": "25d005a2a42e4165f50ace23ee773c73", 
+          "size": 6259065, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ja_song05.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 6, 
+        "data": {
+          "checksum": "f10af64fbece285251defa2047dced4d", 
+          "size": 8956315, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ja_song06.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 7, 
+        "data": {
+          "checksum": "511c8b0e017fb53f3f5a72e44b38b1be", 
+          "size": 7936273, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ja_song07.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 8, 
+        "data": {
+          "checksum": "f976c10ee0f6e773bb3555b14f29dbfb", 
+          "size": 8540175, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ja_song08.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 9, 
+        "data": {
+          "checksum": "64a4d3e16542a3f33e46c11efbf8f7ef", 
+          "size": 4800529, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ja_song09.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 10, 
+        "data": {
+          "checksum": "63243e3b7958dbb5f30d9d948321fab5", 
+          "size": 9602948, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ja_song10.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 11, 
+        "data": {
+          "checksum": "9d2519e39ec64a7abf539dd05bf42e6d", 
+          "size": 8026702, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ja_song11.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 12, 
+        "data": {
+          "checksum": "be94dc79145e22d975577daba11c0c94", 
+          "size": 10660739, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/ja_song12.npk"
+        }, 
+        "lang": "JA"
+      }, 
+      {
+        "album_item_id": 1, 
+        "data": {
+          "checksum": "980417e257a4f5cc60bdcbe9799ae301", 
+          "size": 5239412, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/es_song01.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 2, 
+        "data": {
+          "checksum": "8c47bcd099b1427ab87ff1f592bd8642", 
+          "size": 4342260, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/es_song02.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 3, 
+        "data": {
+          "checksum": "8aa31d580056d122a1fc9597715ea3b0", 
+          "size": 7949648, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/es_song03.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 4, 
+        "data": {
+          "checksum": "8421c713d172e81e3c71e994de22d9b8", 
+          "size": 8558253, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/es_song04.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 5, 
+        "data": {
+          "checksum": "a14f6ba4d514045713543bea7c7688da", 
+          "size": 6450090, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/es_song05.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 6, 
+        "data": {
+          "checksum": "8c25cd5e43fbb46db625896c90b4b903", 
+          "size": 9118776, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/es_song06.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 7, 
+        "data": {
+          "checksum": "cf7d3c9a92f9023dcab86c733b9350c1", 
+          "size": 7752694, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/es_song07.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 8, 
+        "data": {
+          "checksum": "e37dd5aacd8715ccaa320875969821ef", 
+          "size": 8540387, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/es_song08.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 9, 
+        "data": {
+          "checksum": "23da5a60a7a3b95a9f6fad297624210e", 
+          "size": 5018290, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/es_song09.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 10, 
+        "data": {
+          "checksum": "851f0dc14067f785a4b08f3fd44a1421", 
+          "size": 9751740, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/es_song10.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 11, 
+        "data": {
+          "checksum": "c5e3eb9cd69af01492df12c1ef7d6895", 
+          "size": 8111550, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/es_song11.npk"
+        }, 
+        "lang": "ES"
+      }, 
+      {
+        "album_item_id": 12, 
+        "data": {
+          "checksum": "d46cdd9aa92980fc9adb225ee634660b", 
+          "size": 11219414, 
+          "url": "http://cdn.smartstudy.co.kr/appdata/123numbers/movie/iphone/es_song12.npk"
+        }, 
+        "lang": "ES"
+      }
+    ], 
+    "config": [
+      {
+        "k": "allitem_store_item_id_original", 
+        "v": "9999"
+      }, 
+      {
+        "k": "allitem_store_item_id", 
+        "v": "9001"
+      }, 
+      {
+        "k": "facebook_link_url_1", 
+        "v": "fb://profile/1465433343677567"
+      }, 
+      {
+        "k": "facebook_link_url_2", 
+        "v": "http://www.facebook.com/pinkfong.smartstudy"
+      }, 
+      {
+        "k": "facebook_link_url_1-KO", 
+        "v": ""
+      }, 
+      {
+        "k": "facebook_link_url_2-KO", 
+        "v": "https://story.kakao.com/ch/pinkfong/app"
+      }, 
+      {
+        "k": "bodlebook_urlscheme", 
+        "v": "ssbooks-bodlebookiap.us://api"
+      }, 
+      {
+        "k": "bodlebook_appid", 
+        "v": "475263770"
+      }, 
+      {
+        "k": "bodlebook_market", 
+        "v": "appstore"
+      }, 
+      {
+        "k": "bodlebook_urlscheme-KO", 
+        "v": "ssbooks-bodlebookiap.kr://api"
+      }, 
+      {
+        "k": "bodlebook_appid-KO", 
+        "v": "441050169"
+      }, 
+      {
+        "k": "bodlebook_market-KO", 
+        "v": "appstore"
+      }, 
+      {
+        "k": "bodlebook_urlscheme-JA", 
+        "v": "ssbooks-bodlebookiap.jp://api"
+      }, 
+      {
+        "k": "bodlebook_appid-JA", 
+        "v": "475263787"
+      }, 
+      {
+        "k": "bodlebook_market-JA", 
+        "v": "appstore"
+      }, 
+      {
+        "k": "bodlebook_urlscheme-ZH", 
+        "v": "ssbooks-bodlebookiapsong.cn://api"
+      }, 
+      {
+        "k": "bodlebook_appid-ZH", 
+        "v": "743156889"
+      }, 
+      {
+        "k": "bodlebook_market-ZH", 
+        "v": "appstore"
+      }, 
+      {
+        "k": "bodlebook_popup_img", 
+        "v": "{\"url\": \"http://cdn.smartstudy.co.kr/appdata/123numbers/common/main_jump_popup_song2_bg_en.png\", \"checksum\": \"00c17748cd0e5102b85cb47735b004e3\", \"size\": 239789}", 
+        "vt": "file"
+      }, 
+      {
+        "k": "bodlebook_popup_img-KO", 
+        "v": "{\"url\": \"http://cdn.smartstudy.co.kr/appdata/123numbers/common/main_jump_popup_song2_bg_ko.png\", \"checksum\": \"11f99db45d63a05314fb954096ebc148\", \"size\": 245250}", 
+        "vt": "file"
+      }, 
+      {
+        "k": "bodlebook_popup_img-ZH", 
+        "v": "{\"url\": \"http://cdn.smartstudy.co.kr/appdata/123numbers/common/main_jump_popup_song2_bg_zh.png\", \"checksum\": \"1d404938710be998eb840984855f82cd\", \"size\": 247991}", 
+        "vt": "file"
+      }, 
+      {
+        "k": "bodlebook_popup_img-JA", 
+        "v": "{\"url\": \"http://cdn.smartstudy.co.kr/appdata/123numbers/common/main_jump_popup_song2_bg_ja.png\", \"checksum\": \"de5b1004bf45c3cf5021676ad6bb39d9\", \"size\": 250592}", 
+        "vt": "file"
+      }, 
+      {
+        "k": "fongjumpbtn_prefix", 
+        "v": "bodlebook"
+      }, 
+      {
+        "k": "fongjumpbtn_type", 
+        "v": "image"
+      }, 
+      {
+        "k": "lock_fongjump_run", 
+        "v": "FALSE"
+      }, 
+      {
+        "k": "lock_fongjump_install", 
+        "v": "TRUE"
+      }, 
+      {
+        "k": "lock_review", 
+        "v": "TRUE"
+      }, 
+      {
+        "k": "lock_facebook", 
+        "v": "TRUE"
+      }, 
+      {
+        "k": "show_fongjump", 
+        "v": "TRUE"
+      }, 
+      {
+        "k": "coloring_urlscheme", 
+        "v": "smartstudy-kidscoloringfunfree"
+      }, 
+      {
+        "k": "coloring_appid", 
+        "v": "956445360"
+      }, 
+      {
+        "k": "coloring_market", 
+        "v": "appstore"
+      }, 
+      {
+        "k": "cartown_urlscheme", 
+        "v": "smartstudy-cartown"
+      }, 
+      {
+        "k": "cartown_appid", 
+        "v": "955696279"
+      }, 
+      {
+        "k": "cartown_market", 
+        "v": "appstore"
+      }, 
+      {
+        "k": "lock_banner_run", 
+        "v": "TRUE"
+      }, 
+      {
+        "k": "lock_banner_install", 
+        "v": "TRUE"
+      }, 
+      {
+        "k": "phonics_urlscheme", 
+        "v": "ssbooks-phonicsiap"
+      }, 
+      {
+        "k": "phonics_appid", 
+        "v": "875193091"
+      }, 
+      {
+        "k": "phonics_market", 
+        "v": "appstore"
+      }, 
+      {
+        "k": "timestables_urlscheme", 
+        "v": "smartstudy-timestables"
+      }, 
+      {
+        "k": "timestables_appid", 
+        "v": "948574330"
+      }, 
+      {
+        "k": "timestables_market", 
+        "v": "appstore"
+      }, 
+      {
+        "k": "dinoworld_urlscheme", 
+        "v": "smartstudy-dinoworld"
+      }, 
+      {
+        "k": "dinoworld_appid", 
+        "v": "990568268"
+      }, 
+      {
+        "k": "dinoworld_market", 
+        "v": "appstore"
+      }, 
+      {
+        "k": "banner_app_prefixs", 
+        "v": "coloring,cartown,phonics,timestables,bodlebook,dinoworld,tracingworld,hanguliyaho,bedtime,mothergoose"
+      }, 
+      {
+        "k": "tracingworld_urlscheme", 
+        "v": "smartstudy-tracingworld"
+      }, 
+      {
+        "k": "tracingworld_appid", 
+        "v": "1042534777"
+      }, 
+      {
+        "k": "tracingworld_market", 
+        "v": "appstore"
+      }, 
+      {
+        "k": "hanguliyaho_urlscheme", 
+        "v": "smartstudy-hanguliyaho"
+      }, 
+      {
+        "k": "hanguliyaho_appid", 
+        "v": "979780368"
+      }, 
+      {
+        "k": "hanguliyaho_market", 
+        "v": "appstore"
+      }, 
+      {
+        "k": "bedtime_urlscheme", 
+        "v": "smartstudy-bedtime"
+      }, 
+      {
+        "k": "bedtime_appid", 
+        "v": "1023568553"
+      }, 
+      {
+        "k": "bedtime_market", 
+        "v": "appstore"
+      }, 
+      {
+        "k": "mothergoose_urlscheme", 
+        "v": "smartstudy-4"
+      }, 
+      {
+        "k": "mothergoose_appid", 
+        "v": "1071745949"
+      }, 
+      {
+        "k": "mothergoose_market", 
+        "v": "appstore"
+      }
+    ], 
+    "store_list": [
+      {
+        "charge_type": "charge", 
+        "inapp_id": "kr.co.smartstudy.123numbers.originalpack", 
+        "include_album_item_ids": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12
+        ], 
+        "name": "Original Package ", 
+        "price": "26.99", 
+        "price_desc": "$26.99", 
+        "price_state": 1, 
+        "store_item_id": 9999
+      }, 
+      {
+        "charge_type": "charge", 
+        "inapp_id": "kr.co.smartstudy.123numbers.fullpack", 
+        "include_album_item_ids": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12
+        ], 
+        "name": "123Numbers Full Pack", 
+        "price": "12.99", 
+        "price_desc": "$12.99", 
+        "price_state": 1, 
+        "store_item_id": 9001
+      }, 
+      {
+        "charge_type": "free", 
+        "inapp_id": "", 
+        "include_album_item_ids": [
+          1, 
+          2, 
+          3, 
+          4, 
+          5, 
+          6, 
+          7, 
+          8, 
+          9, 
+          10, 
+          11, 
+          12
+        ], 
+        "name": "1", 
+        "price": "0", 
+        "price_desc": "$0.00", 
+        "price_state": 4, 
+        "store_item_id": 1001
+      }
+    ]
+  }, 
+  "version": 1
+}
